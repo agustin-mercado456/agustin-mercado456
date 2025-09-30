@@ -23,8 +23,8 @@
 ---
 
 ### 📫 Cómo contactarme  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)  
-- 📧 Email: tuemail@ejemplo.com  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/mariano-agustin-mercado/))  
+- 📧 Email: agustin20015@gmail.com  
 - 🐙 [GitHub](https://github.com/agustin-mercado456)  
 
 ---
