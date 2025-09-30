@@ -8,7 +8,7 @@
 - 🔭 Actualmente trabajando en proyectos de ** ELT y ETL**.  
 - 🌱 Aprendiendo y aplicando **Machine Learning (regresión, clasificación y clustering)** con scikit-learn, TensorFlow y PyTorch.  
 - 📂 Experiencia en **Data Engineering** con **Dagster, dbt, DLT Hub y Airbyte**.  
-- 📊 Interesado en aplicar la analítica avanzada y la IA para mejorar procesos de negocio.  
+ 
 
 
 ---
