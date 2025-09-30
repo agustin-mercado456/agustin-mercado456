@@ -9,16 +9,16 @@
 - 🌱 Aprendiendo y aplicando **Machine Learning (regresión, clasificación y clustering)** con scikit-learn, TensorFlow y PyTorch.  
 - 📂 Experiencia en **Data Engineering** con **Dagster, dbt, DLT Hub y Airbyte**.  
 - 📊 Interesado en aplicar la analítica avanzada y la IA para mejorar procesos de negocio.  
-- 🎯 Enfoque en proyectos alineados con los **ODS (Objetivos de Desarrollo Sostenible)**.  
+
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas  
-- **Lenguajes:** Python, SQL, C#, PHP (Laravel).  
+- **Lenguajes:** Python, SQL.  
 - **Data & ML:** Pandas, NumPy, scikit-learn, TensorFlow, PyTorch.  
 - **Data Engineering:** Dagster, dbt, Airbyte, DLT Hub.  
 - **Bases de Datos:** MySQL, PostgreSQL, MariaDB.  
-- **Infraestructura:** Docker, Proxmox, Linux.  
+- **Infraestructura:** Docker, Linux.  
 
 ---
 
